@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo "school"  >>file
+echo "school is open"  >>file
